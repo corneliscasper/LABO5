@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{C8199C01-8D0F-4B14-8EC0-A306D19C1B83}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LABO5/Views/TrelloCardPage.xaml.cs">
+    <Files>
+      <File FileName="LABO5/Views/TrelloCardPage.xaml.cs" Line="71" Column="1" />
+      <File FileName="LABO5/Views/TrelloCardPage.xaml" Line="19" Column="61" />
+      <File FileName="LABO5/Views/SingleCardPage.xaml" Line="40" Column="50" />
+      <File FileName="LABO5/Views/SingleCardPage.xaml.cs" Line="31" Column="38" />
+      <File FileName="LABO5/Views/TrelloListPage.xaml.cs" Line="29" Column="1" />
+      <File FileName="LABO5/Repositories/TrelloRepository.cs" Line="189" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LABO5" expanded="True">
+            <Node name="LABO5" expanded="True">
+              <Node name="Repositories" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="SingleCardPage.xaml" expanded="True" />
+                <Node name="TrelloCardPage.xaml" expanded="True">
+                  <Node name="TrelloCardPage.xaml.cs" selected="True" />
+                </Node>
+                <Node name="TrelloListPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="LABO5.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Repositories/TrelloRepository.cs" relfile="LABO5/Repositories/TrelloRepository.cs" line="107" column="1" />
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Repositories/TrelloRepository.cs" relfile="LABO5/Repositories/TrelloRepository.cs" line="129" column="1" />
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Repositories/TrelloRepository.cs" relfile="LABO5/Repositories/TrelloRepository.cs" line="85" column="1" />
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Repositories/TrelloRepository.cs" relfile="LABO5/Repositories/TrelloRepository.cs" line="63" column="1" />
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Repositories/TrelloRepository.cs" relfile="LABO5/Repositories/TrelloRepository.cs" line="159" column="1" />
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Repositories/TrelloRepository.cs" relfile="LABO5/Repositories/TrelloRepository.cs" line="190" column="1" />
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Views/SingleCardPage.xaml.cs" relfile="LABO5/Views/SingleCardPage.xaml.cs" line="32" column="1" />
+      <Breakpoint file="/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/Views/TrelloListPage.xaml.cs" relfile="LABO5/Views/TrelloListPage.xaml.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LABO5.Android PreferredExecutionTarget="Android.nexus_6_pie_9_0_-_api_28_1" />
+</Properties>

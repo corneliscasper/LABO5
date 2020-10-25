@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" Title="" x:Class="LABO5.Views.TrelloListPage">
+    <ContentPage.Content>
+        <ListView x:Name="lvwTrelloLists" ItemSelected="lvwTrelloLists_ItemSelected" RowHeight="50" SeparatorColor="Transparent">
+<ListView.ItemTemplate>
+<DataTemplate>
+<ViewCell>
+<Frame BackgroundColor="WhiteSmoke" Margin="8" Padding="8,0">
+<Grid>
+<Label Text="{Binding Name}" TextColor="Black" VerticalOptions="Center" />
+<Label Text="..." TextColor="Gray" VerticalOptions="Center" HorizontalOptions="End" />
+</Grid>
+</Frame>
+</ViewCell>
+</DataTemplate>
+</ListView.ItemTemplate>
+</ListView>
+    </ContentPage.Content>
+</ContentPage>

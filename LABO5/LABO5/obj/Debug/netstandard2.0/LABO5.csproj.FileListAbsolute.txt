@@ -1,0 +1,17 @@
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/bin/Debug/netstandard2.0/LABO5.deps.json
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/bin/Debug/netstandard2.0/LABO5.dll
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/bin/Debug/netstandard2.0/ref/LABO5.dll
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/bin/Debug/netstandard2.0/LABO5.pdb
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/LABO5.AssemblyInfoInputs.cache
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/LABO5.AssemblyInfo.cs
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/LABO5.csproj.CoreCompileInputs.cache
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/LABO5.dll
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/ref/LABO5.dll
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/LABO5.pdb
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/LABO5.csprojAssemblyReference.cache
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/Views/TrelloListPage.xaml.g.cs
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/Views/TrelloCardPage.xaml.g.cs
+/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/obj/Debug/netstandard2.0/Views/SingleCardPage.xaml.g.cs

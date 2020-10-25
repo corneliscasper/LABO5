@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G5rH9f37nrfs+HN6N4muTu1ITQpKMyItBCnZNf4slISTSEZlrVPQsMXoElQRHhhdWhgawMLnKERYwQZoCCsFIQ==",
+  "success": true,
+  "projectFilePath": "/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5.iOS/LABO5.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/casper/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/casper/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/casper/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

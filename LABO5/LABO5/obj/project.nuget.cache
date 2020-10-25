@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "BStCPRAsw0oKGo6rZ3Ql1W2fevz9/hWwhsvq92ifuJcTQzDDBv09MJuVcOc8VtC9mnoozh4AddotmEytA8IFQg==",
+  "success": true,
+  "projectFilePath": "/Users/casper/Desktop/MCT/2MCT/Device programming/2020-2021-DEVPROG-LAB05-corneliscasper/LABO5/LABO5/LABO5.csproj",
+  "expectedPackageFiles": [
+    "/Users/casper/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/casper/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/casper/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/casper/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/casper/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/casper/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
